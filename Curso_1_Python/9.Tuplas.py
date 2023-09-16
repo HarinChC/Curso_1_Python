@@ -1,0 +1,5 @@
+nombres = ("harin", "andres", "pedro")
+print(type(nombres))
+print("///")
+print(nombres)
+print(nombres[1])
